@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Adidas";
+    
+}
+
+@*@section featured is used to display text below the navigation menu.*@
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title.</h1>
+            </hgroup>
+        </div>
+    </section>
+}
+
+<fieldset>
+    <legend>Registration Form</legend>
+    <ol>
+        <li>
+            @Html.LabelFor(m => m.Category)
+            @Html.TextBoxFor(m => m.Category)
+        </li>
+        <li>
+            @Html.LabelFor(m => m.Brand)
+            @Html.TextBoxFor(m => m.Brand)
+        </li>
+        <li>
+            @Html.LabelFor(m => m.UserLastName)
+            @Html.TextBoxFor(m => m.UserLastName)
+        </li>
+        <li>
+            @Html.LabelFor(m => m.UserEmail)
+            @Html.TextBoxFor(m => m.UserEmail)
+        </li>
+     </ol>
+    <input type="submit" value="Search" />
+</fieldset>
+
+
+
+
+

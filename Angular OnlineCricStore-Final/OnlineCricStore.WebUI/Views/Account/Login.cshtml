@@ -1,0 +1,52 @@
+﻿@*@model OnlineCricStore.WebUI.Models.LoginModel*@
+
+@{
+    //ViewBag.Title = "Log in";
+    Layout = null;
+}
+
+
+
+<section id="loginForm">
+<h2>Use a local account to log in.</h2>
+    
+    <form data-ng-submit="sendForm()"  novalidate>
+    <fieldset>
+        <legend>Log in Form</legend>
+        <div class="field-validation-error" >{{message}}</div>
+        <ol>
+            <li>
+                <label for="UserName">User name</label>
+                                <br />
+                <input  id="UserName" name="UserName" type="text" data-ng-model="User.UserName">
+
+               <span class="error" data-ng-show="mainForm.userName.$error.required">*</span>
+                
+            </li>
+            <li>
+                <label for="UserName">Password</label>
+                                <br />
+                <input  id="Password" name="Password" type="password" data-ng-model="User.Password">
+
+              <span class="error" data-ng-show="mainForm.userName.$error.required">*</span>
+               
+            </li>
+            <li>
+                <input id="RememberMe" name="RememberMe" type="checkbox" data-ng-model="User.RememberMe">
+               <label class="checkbox" for="RememberMe">Remember me?</label>
+               
+            </li>
+            <li id="errorMessages" class="field-validation-error" data-ng-repeat="error in errors">{{error}}</li>
+        </ol>
+        <button type="submit" class="btn btn-primary" data-ng-disabled="mainForm.$invalid">Log in</button>
+         
+    </fieldset>
+        </form>
+    <p>
+              <a data-ng-class="{active : activeViewPath==='/Account/Register'}" href="#/Account/Register">Register</a>
+         if you don't have an account.
+    </p>
+
+</section>
+
+

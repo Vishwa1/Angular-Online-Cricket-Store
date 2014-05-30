@@ -1,0 +1,19 @@
+﻿@if (Request.IsAuthenticated)
+{
+    <text>
+    Hello, <a data-ng-class="{active : activeViewPath==='/Account/Manage'}" href="#/Account/Manage" class="username">@User.Identity.Name</a>
+    !        @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm" }))
+             {
+        @Html.AntiForgeryToken()
+        <a href="javascript:document.getElementById('logoutForm').submit()">Log off</a>
+             }
+    </text>
+}
+else
+{
+    <ul>
+
+        <li><a data-ng-class="{active : activeViewPath==='/Account/Register'}" href="#/Account/Register">Register</a></li>
+        <li><a data-ng-class="{active : activeViewPath==='/Account/Login'}" href="#/Account/Login">Log in</a></li>
+    </ul>
+}

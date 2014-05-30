@@ -1,0 +1,32 @@
+﻿
+
+@{
+    //ViewBag.Title = "SearchByBrand";
+    Layout = null;
+}
+
+<h2 style="font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif; color:darkblue">Displaying items by Brand</h2>
+
+
+
+<div class="ProductItem" ng-repeat="p in products | filter:ignoreAccents">
+
+            
+                <div class="image" ng-show=" p.ThumbnailPath != null">
+                    <img src="{{p.ThumbnailPath}}"  alt="{{p.ProductName}}" />
+                </div>
+           
+            <div class="ProductName">
+                <h3 style="font-family:book antiqua; font-size:large; color:darkmagenta; font-weight:600" ng-model="p.ProductName">
+                    {{ p.ProductName }}
+                </h3>
+                <h4 style="font-family:book antiqua; font-size:large; color:teal; font-weight:600" ng-model="p.price">{{ p.price | currency}}</h4>
+            </div>
+
+            @*<input class="btn btn-primary" type="button" title="Details" value="Details" ng-model="p.ProductId" ng-click="Details('aaa')"  />*@
+   
+   <button class="btn btn-primary" ng-click="Details(p.ProductId)" >
+  Details
+</button>
+        </div>
+

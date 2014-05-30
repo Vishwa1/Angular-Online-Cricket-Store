@@ -1,0 +1,55 @@
+﻿@{
+    Layout = null;
+}
+<hgroup class="title">
+    <h1>Contact Us</h1>
+   
+</hgroup>
+
+<section class="contact">
+     <section id="ContactForm" style="float:left;width: 51%;padding: 1%;border: 1px solid #333;min-height: 356px;">
+        <br /><br />
+<h2>Contact Form</h2>
+        <br /><br />
+  
+<form data-ng-submit="sendForm()"  novalidate>
+      <div class="error" style="color:#0EA008">{{message}}</div>
+    <fieldset>
+       
+        <ol>
+             <li id="errorMessages" class="error" data-ng-repeat="error in errors">{{error}}</li>
+            <li>
+                <label for="Name"> Name</label>
+               <input  id="Name" name="Name" type="text" data-ng-model="Contact.Name" placeholder = "Enter Contact Name">
+                 <br />
+               <span class="error" data-ng-show="mainForm.Name.$error.required">*</span>
+               
+               
+               
+            </li>
+            <li>
+                <label for="Email">Email</label>
+            
+                 <input  id="Email" name="Email" type="text" data-ng-model="Contact.Email" placeholder = "Enter Contact Email">
+                 <br />
+               <span class="error" data-ng-show="mainForm.Email.$error.required">*</span>
+            </li>
+            <li>
+                <label for="Message">Message</label>
+             
+                <textarea cols="20" data-val="true"  id="Message" name="Message" rows="2" style=" width: 78%; " data-ng-model="Contact.Message" placeholder = "Enter Contact Message"></textarea>
+                 
+                 <br />
+               <span class="error" data-ng-show="mainForm.Message.$error.required">*</span>
+            </li>
+        </ol>
+         <button type="submit" class="btn btn-primary" data-ng-disabled="mainForm.$invalid">Submit</button>
+    </fieldset>
+</form>
+</section>
+
+      <section id="Contactmap" style="float:right;width:48%;">
+<iframe width="90%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/maps?q=salt+lake+sec+1+ce181&amp;ie=UTF8&amp;hq=&amp;hnear=CE-181,+Sector-1,+Salt+Lake+City,+Kolkata,+West+Bengal&amp;t=m&amp;z=14&amp;ll=22.595424,88.414333&amp;output=embed"></iframe>
+
+</section>
+</section>

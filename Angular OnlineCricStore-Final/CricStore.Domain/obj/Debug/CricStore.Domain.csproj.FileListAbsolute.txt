@@ -1,0 +1,69 @@
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\CricStore.Domain\bin\Debug\CricStore.Domain.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\CricStore.Domain\bin\Debug\CricStore.Domain.pdb
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\CricStore.Domain\bin\Debug\Ninject.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\CricStore.Domain\bin\Debug\Ninject.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\CricStore.Domain\obj\Debug\CricStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\CricStore.Domain\obj\Debug\CricStore.Domain.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\CricStore.Domain\obj\Debug\CricStore.Domain.pdb
+C:\Users\Vishwajeet\Documents\Visual Studio 2013\Projects\Practice\OnlineCricStore\CricStore.Domain\bin\Debug\CricStore.Domain.dll.config
+C:\Users\Vishwajeet\Documents\Visual Studio 2013\Projects\Practice\OnlineCricStore\CricStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Vishwajeet\Documents\Visual Studio 2013\Projects\Practice\OnlineCricStore\CricStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vishwajeet\Documents\Visual Studio 2013\Projects\Practice\OnlineCricStore\CricStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Vishwajeet\Documents\Visual Studio 2013\Projects\Practice\OnlineCricStore\CricStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\CricStore.Domain\bin\Debug\CricStore.Domain.dll.config
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\CricStore.Domain\bin\Debug\CricStore.Domain.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\CricStore.Domain\bin\Debug\CricStore.Domain.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\CricStore.Domain\bin\Debug\Ninject.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\CricStore.Domain\bin\Debug\Ninject.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\CricStore.Domain\obj\Debug\CricStore.Domain.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\CricStore.Domain\obj\Debug\CricStore.Domain.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\CricStore.Domain.dll.config
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\CricStore.Domain.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\CricStore.Domain.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\Ninject.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\Ninject.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\obj\Debug\CricStore.Domain.csprojResolveAssemblyReference.cache
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\obj\Debug\CricStore.Domain.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\obj\Debug\CricStore.Domain.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\CricStore.Domain.dll.config
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\CricStore.Domain.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\CricStore.Domain.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\Ninject.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\Ninject.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\obj\Debug\CricStore.Domain.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\obj\Debug\CricStore.Domain.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\CricStore.Domain.dll.config
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\CricStore.Domain.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\CricStore.Domain.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\Ninject.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\Ninject.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\obj\Debug\CricStore.Domain.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\CricStore.Domain\obj\Debug\CricStore.Domain.pdb
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\CricStore.Domain.dll.config
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\CricStore.Domain.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\CricStore.Domain.pdb
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\Ninject.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\CricStore.Domain\bin\Debug\Ninject.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\CricStore.Domain\obj\Debug\CricStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\CricStore.Domain\obj\Debug\CricStore.Domain.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\CricStore.Domain\obj\Debug\CricStore.Domain.pdb

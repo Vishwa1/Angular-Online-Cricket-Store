@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@*@ViewBag.Title *@- My ASP.NET MVC Application</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="keywords" content="Online, Cricket, bat, ball, shopping, buy, gloves, portfolio, thumbnails" />
+    <link href="@Url.Content("~/Content/style.css")" rel="stylesheet" type="text/css" />
+    @*<link href="@Url.Content("~/Content/Slideshow.css")" rel="stylesheet" type="text/css" />*@
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/angular")
+    @Scripts.Render("~/bundles/app")
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body data-ng-app="main" data-ng-controller="RootController">
+    <header>
+      @Html.Partial("_HeaderAndTitle")
+        
+    </header>
+
+    @*Code for Navigation Menu is placed in "_NavigationMenu" to make code readable.*@
+    @Html.Partial("_NavigationMenu")
+
+    @Html.Partial("_SearchItems")
+
+    <div id="body">
+        @*To display Shopping Summary on page*@
+        @{Html.RenderAction("ShoppingSummary", "Basket");}
+
+
+        <section class="featured">
+            <div class="content-wrapper">
+                <hgroup class="title">
+                    <h1>OnlineCricStore.</h1>
+
+                </hgroup>
+
+            </div>
+        </section>
+        <div class="content-wrapper main-content clear-fix ">
+            @RenderBody()
+        </div>
+    </div>
+    <footer>
+        @Html.Partial("_Footer")
+    </footer>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/angular")
+    @Scripts.Render("~/bundles/app")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

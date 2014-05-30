@@ -1,0 +1,155 @@
+﻿@*@model CricStore.Domain.Entities.ShippingDetails
+
+@{
+    ViewBag.Title = "Checkout";
+}
+
+<h2>Check out now </h2>
+
+Please Enter your details and we'll ship your items right away!
+
+@using (Html.BeginForm())
+{ 
+    <h3>Ship to</h3>
+    
+    <div> Enter Name:<br />
+         @Html.EditorFor(x => x.Name)
+    </div>
+    
+    <div> Address Line 1:<br />
+         @Html.EditorFor(x => x.Line1)
+    </div>
+    
+    <div> Address Line 2: <br />
+         @Html.EditorFor(x => x.Line2)
+    </div>
+    
+    <div> Address Line 3: <br /> 
+        @Html.EditorFor(x => x.Line3)
+    </div>
+    
+    <div>City: <br />
+         @Html.EditorFor(x => x.City)
+    </div>
+    
+    <div>State:<br />
+         @Html.EditorFor(x => x.State)
+    </div>
+    
+    <div>Zip Code: <br />
+        @Html.EditorFor(x => x.Zip)
+    </div>
+    
+    <div>Country: <br />
+         @Html.EditorFor(x => x.Country)
+    </div>
+    
+    <h3>Options</h3>
+    <label>
+        @Html.EditorFor(x => x.GiftWrap)
+        Gift Wrap these items
+    </label>
+    
+    <p align ="center">
+        @Html.ActionLink("Complete Order", "CompletedOrder", "Basket")
+      
+    </p>
+}
+*@
+
+@{
+    // ViewBag.Title = "Checkout";
+    Layout = null;
+}
+
+<h2>Check out now </h2>
+
+Please Enter your details and we'll ship your items right away!
+
+<div class="user-details">
+    <form data-ng-submit="sendForm()" novalidate>
+
+        <h3>Ship to</h3>
+        <ul>
+            
+            <li id="errorMessages" class="error" data-ng-repeat="error in errors">{{error}}</li>
+        </ul>
+        <div>
+            Enter Name:<br />
+            <input type="text" id="Name" name="Name" data-ng-model="CheckoutUser.Name" />
+            <span class="error" data-ng-show="mainForm.Name.$error.required">sss</span>
+        </div>
+
+        <div>
+            Address Line 1:<br />
+            <input type="text" id="Line1" name="Line1" data-ng-model="CheckoutUser.Line1" />
+
+            <span class="error" data-ng-show="mainForm.Line1.$error.required">sssssssssss</span>
+        </div>
+
+        <div>
+            Address Line 2:
+            <br />
+            <input type="text" id="Line2" name="Line2" data-ng-model="CheckoutUser.Line2" />
+
+            <span class="error" data-ng-show="mainForm.Line2.$error.required">ssssssssss</span>
+        </div>
+
+        <div>
+            Address Line 3:
+            <br />
+            <input type="text" id="Line3" name="Line3" data-ng-model="CheckoutUser.Line3" />
+
+            <span class="error" data-ng-show="mainForm.Line3.$error.required">*</span>
+        </div>
+
+        <div>
+            City:
+            <br />
+            <input type="text" id="City" name="City" data-ng-model="CheckoutUser.City" />
+
+            <span class="error" data-ng-show="mainForm.City.$error.required">*</span>
+        </div>
+
+        <div>
+            State:<br />
+            <input type="text" id="State" name="State" data-ng-model="CheckoutUser.State" />
+
+            <span class="error" data-ng-show="mainForm.State.$error.required">*</span>
+        </div>
+
+        <div>
+            Zip Code:
+            <br />
+            <input type="text" id="Zip" name="Zip" data-ng-model="CheckoutUser.Zip" />
+
+            <span class="error" data-ng-show="mainForm.Zip.$error.required">*</span>
+        </div>
+
+        <div>
+            Country:
+            <br />
+            <input type="text" id="Country" name="Country" data-ng-model="CheckoutUser.Country" />
+
+            <span class="error" data-ng-show="mainForm.Country.$error.required">*</span>
+        </div>
+
+        <h3>Options</h3>
+        <label>
+
+            <input type="checkbox" ng-model="CheckoutUser.GiftWrap" />
+            Gift Wrap these items
+        </label>
+
+        <p align="center">
+            @* @Html.ActionLink("Complete Order", "CompletedOrder", "Basket")*@
+
+            <button type="submit" class="btn btn-primary" data-ng-disabled="mainForm.$invalid">Complete Order</button>
+            @* <button class="btn btn-primary" ng-click="Update(CheckoutUser)" >
+                       Complete Order
+                    </button>*@
+        </p>
+       
+        
+    </form>
+</div>

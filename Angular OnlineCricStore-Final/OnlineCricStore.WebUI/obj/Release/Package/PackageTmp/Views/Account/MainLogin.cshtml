@@ -1,0 +1,93 @@
+﻿@*@model OnlineCricStore.WebUI.Models.LoginModel
+
+@{
+    ViewBag.Title = "Log in";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+</hgroup>
+
+<section id="loginForm">
+<h2>Use a local account to log in.</h2>
+@using (Html.BeginForm(new { ReturnUrl = ViewBag.ReturnUrl })) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Log in Form</legend>
+        <ol>
+            <li>
+                @Html.LabelFor(m => m.UserName)<br />
+                @Html.TextBoxFor(m => m.UserName)
+                <br />
+                @Html.ValidationMessageFor(m => m.UserName)
+            </li>
+            <li>
+                @Html.LabelFor(m => m.Password)<br />
+                @Html.PasswordFor(m => m.Password)
+                <br />
+                @Html.ValidationMessageFor(m => m.Password)
+            </li>
+            <li>
+                @Html.CheckBoxFor(m => m.RememberMe)
+                @Html.LabelFor(m => m.RememberMe, new { @class = "checkbox" })
+            </li>
+        </ol>
+        <input type="submit" class="btn btn-primary" value="Log in" />
+    </fieldset>
+    <p>
+        @Html.ActionLink("Register", "Register") if you don't have an account.
+    </p>
+}
+</section>*@
+@{
+    //ViewBag.Title = "Log in";
+    Layout = null;
+}
+
+<section id="loginForm">
+<h2>Use a local account to log in.</h2>
+
+    <form>
+    <fieldset>
+        <legend>Log in Form</legend>
+        <ol>
+            <li>
+                <label for="UserName">User name</label>
+                                <br />
+                <input data-val="true" data-val-required="The User name field is required." id="UserName" name="UserName" type="text" data-ng-model="User.UserName">
+
+               <span class="field-validation-valid" data-valmsg-for="UserName" data-valmsg-replace="true"></span>
+                
+            </li>
+            <li>
+                <label for="UserName">Password</label>
+                                <br />
+                <input data-val="true" data-val-required="The Password field is required." id="Password" name="Password" type="password" data-ng-model="User.Password">
+
+               <span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+               
+            </li>
+            <li>
+                <input data-val="true" data-val-required="The Remember me? field is required." id="RememberMe" name="RememberMe" type="checkbox" data-ng-model="User.RememberMe">
+               <label class="checkbox" for="RememberMe">Remember me?</label>
+               
+            </li>
+        </ol>
+        
+         <button class="btn btn-primary" ng-click="Login(User)" >
+                       Log in
+                    </button>
+    </fieldset>
+        <form>
+    <p>
+        <a  ng-click="Register(User)" >
+                       Register
+                    </a>
+         if you don't have an account.
+    </p>
+
+</section>
+
+

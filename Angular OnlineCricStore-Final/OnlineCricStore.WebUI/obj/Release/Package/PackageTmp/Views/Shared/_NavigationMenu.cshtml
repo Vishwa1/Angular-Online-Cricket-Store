@@ -1,0 +1,159 @@
+﻿<div class="container">
+    <ul id="nav">
+        <li data-ng-class="{active : activeViewPath==='/Home'}"><a href="#/Home">Home</a></li>
+        <li data-ng-class="{active : activeViewPath==='/Bats'}">
+            <a href="#/Bats">Bats</a>
+            <span id="s1"></span>
+            <ul class="subs">
+                <li>
+                    <ul>
+                        <li>
+                            <a data-ng-class="{active : activeViewPath==='/Adidas'}" href="#/Adidas/{{1}}">
+                                @* @Html.ActionLink("Adidas", "BrandList", "Product", new { BrandId = 1 }, null)*@
+                                Adidas
+                            </a>
+                        </li>
+
+                        <li>
+                            <a data-ng-class="{active : activeViewPath==='/Gray-Nicolls'}" href="#/Gray-Nicolls/{{2}}">
+                                @* @Html.ActionLink("Gray-Nicolls", "BrandList", "Product", new { BrandId = 2 }, null)*@
+                                Gray-Nicolls
+                            </a>
+                        </li>
+
+                        <li>
+                            <a data-ng-class="{active : activeViewPath==='/Kookaburra'}" href="#/Kookaburra/{{3}}">
+                                @*@Html.ActionLink("Kookaburra", "BrandList", "Product", new { BrandId = 3 }, null)*@
+                                Kookaburra
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+
+        <li data-ng-class="{active : activeViewPath==='/Ball'}">
+            <a href="#/Ball">Ball</a>
+            <span id="s1"></span>
+            <ul class="subs">
+                <li>
+
+                    <ul>
+                        <li>
+                            <a data-ng-class="{active : activeViewPath==='/KookaBurra'}" href="#/KookaBurra/{{4}}">KookaBurra
+                                @*@Html.ActionLink("KookaBurra", "BrandList", "Product", new { BrandId = 4 }, null)*@
+                            </a>
+                        </li>
+                        <li>
+                            <a data-ng-class="{active : activeViewPath==='/GM Balls'}" href="#/GM Balls/{{5}}">GM Balls
+                               @* @Html.ActionLink("GM Balls", "BrandList", "Product", new { BrandId = 5 }, null)*@
+                            </a>
+                        </li>
+                        <li>
+                            <a data-ng-class="{active : activeViewPath==='/SG Balls'}" href="#/SG Balls/{{6}}">SG Balls
+                               @* @Html.ActionLink("SG Balls", "BrandList", "Product", new { BrandId = 6 }, null)*@
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+
+        <li data-ng-class="{active : activeViewPath==='/Accessories'}">
+            <a href="#/Accessories">Accessories</a>
+            <span id="s1"></span>
+            <ul class="subs">
+                <li>
+
+                    <ul>
+                        <li>
+                            @*<a href="/Product/BrandList/7">*@
+                            <a data-ng-class="{active : activeViewPath==='/Thigh Pads'}" href="#/Thigh Pads/{{7}}">Thigh Pads
+                               @* @Html.ActionLink("Thigh Pads", "BrandList", "Product", new { BrandId = 7 }, null)*@
+                            </a>
+                        </li>
+                        <li>
+                            @*<a href="/Product/BrandList/8">*@
+                            <a data-ng-class="{active : activeViewPath==='/BrandList'}" href="#/BrandList/{{8}}">BrandList
+                               @* @Html.ActionLink("Gloves", "BrandList", "Product", new { BrandId = 8 }, null)*@
+                            </a>
+                        </li>
+                        <li>
+                            <a data-ng-class="{active : activeViewPath==='/Helmets'}" href="#/Helmets/{{9}}">Helmets
+                                @*@Html.ActionLink("Helmets", "BrandList", "Product", new { BrandId = 9 }, null)*@
+                            </a>
+                        </li>
+                        <li>
+                            @* <a href="/Product/BrandList/10">*@
+                            <a data-ng-class="{active : activeViewPath==='/Bat Cover'}" href="#/Bat Cover/{{10}}">Bat Cover
+                               @* @Html.ActionLink("Bat Cover", "BrandList", "Product", new { BrandId = 10 }, null)*@
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+
+                    <ul>
+                        <li>
+                            @*<a href="/Product/BrandList/11">*@
+                            <a data-ng-class="{active : activeViewPath==='/Leg Guards'}" href="#/Leg Guards/{{11}}">Leg Guards
+                               @* @Html.ActionLink("Leg Guards", "BrandList", "Product", new { BrandId = 11 }, null)*@
+                            </a>
+                        </li>
+                        <li>
+                            @*<a href="/Product/BrandList/12">*@
+                            <a data-ng-class="{active : activeViewPath==='/Shoes'}" href="#/Shoes/{{12}}">Shoes
+                               @* @Html.ActionLink("Shoes", "BrandList", "Product", new { BrandId = 12 }, null)*@
+                            </a>
+                        </li>
+                        <li>
+                            @* <a href="/Product/BrandList/13">*@
+                            <a data-ng-class="{active : activeViewPath==='/Sunglasses'}" href="#/Sunglasses/{{13}}">Sunglasses
+                               @* @Html.ActionLink("Sunglasses", "BrandList", "Product", new { BrandId = 13 }, null)*@
+                            </a>
+                        </li>
+                        <li>
+                            @*<a href="/Product/BrandList/14">*@
+                            <a data-ng-class="{active : activeViewPath==='/Cricket Clothing'}" href="#/Cricket Clothing/{{14}}">Cricket Clothing
+                                @*@Html.ActionLink("Cricket Clothing", "BrandList", "Product", new { BrandId = 14 }, null)*@
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li data-ng-class="{active : activeViewPath==='/Brands'}">
+            <a href="#/Brands">Brands</a>
+            <span id="s2"></span>
+            <ul class="subs">
+                <li>
+                    <ul>
+                        <li ><a data-ng-class="{active : activeViewPath==='/SearchByBrand'}" href="#/SearchByBrand/Adidas">Adidas</a></li>
+                        <li ><a data-ng-class="{active : activeViewPath==='/SearchByBrand'}" href="#/SearchByBrand/Nike">Nike</a></li>
+                        <li ><a data-ng-class="{active : activeViewPath==='/SearchByBrand'}" href="#/SearchByBrand/MRF">Career</a></li>
+                        @*<li>@Html.ActionLink("Adidas", "SearchByBrand", "Search", new { SearchString = "Adidas" }, null)</li>
+                        <li>@Html.ActionLink("Nike", "SearchByBrand", "Search", new { SearchString = "Nike" }, null)</li>
+                        <li>@Html.ActionLink("MRF", "SearchByBrand", "Search", new { SearchString = "MRF" }, null)</li>*@
+                    </ul>
+                </li>
+                <li>
+                    <ul>
+                        <li ><a data-ng-class="{active : activeViewPath==='/SearchByBrand'}" href='#/SearchByBrand/CA'>CA</a></li>
+                        <li ><a  data-ng-class="{active : activeViewPath==='/SearchByBrand'}" href='#/SearchByBrand/GM'>GM</a></li>
+                        <li ><a data-ng-class="{active : activeViewPath==='/SearchByBrand'}" href='#/SearchByBrand/SG'>SG</a></li>
+                        @*<li>@Html.ActionLink("CA", "SearchByBrand", "Search", new { SearchString = "CA" }, null)</li>
+                        <li>@Html.ActionLink("GM", "SearchByBrand", "Search", new { SearchString = "GM" }, null)</li>
+                        <li>@Html.ActionLink("SG", "SearchByBrand", "Search", new { SearchString = "SG" }, null)</li>*@
+                    </ul>
+                </li>
+            </ul>
+        </li>
+
+        <li data-ng-class="{active : activeViewPath==='/About'}"><a href='#/About'>About</a></li>
+        <li data-ng-class="{active : activeViewPath==='/Contact'}"><a href='#/Contact'>Contact</a></li>
+        <li data-ng-class="{active : activeViewPath==='/Career'}"><a href='#/Career'>Career</a></li>
+        @* <li >@Html.ActionLink("About", "About", "Home")</li>
+        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+        <li>@Html.ActionLink("Career", "Career", "Home")</li>*@
+    </ul>
+</div>

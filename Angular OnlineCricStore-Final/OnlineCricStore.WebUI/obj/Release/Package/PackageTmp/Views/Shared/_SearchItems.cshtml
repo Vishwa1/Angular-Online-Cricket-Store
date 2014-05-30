@@ -1,0 +1,19 @@
+﻿@*@model IEnumerable<CricStore.Domain.Entities.Product>*@
+
+
+    <div id="SearchButtons" >
+        <div id="cat1">
+            <h2 style="font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif; color:purple;margin-right: 86%;">Category Name</h2> 
+            
+              <input type="text" id="SearchString" name="Name" data-ng-model="SearchString" placeholder="Category Name" ng-change="change(SearchString)"/>
+            
+            <button style="margin-left:10px; width:90px;" class="btn btn-primary" ng-click="Search(SearchString)" >
+                      Search
+                    </button>
+        </div>
+        <div id="button2">
+            
+        </div>
+                
+    </div>
+

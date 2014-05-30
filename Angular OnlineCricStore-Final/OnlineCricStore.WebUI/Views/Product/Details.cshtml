@@ -1,0 +1,50 @@
+﻿@{
+    Layout = null;
+}
+<div style="text-align:left;" >
+        <div style="text-align:center;">
+            <h2>Details</h2>
+        </div>
+
+        <div class="display-field" style="float:left; width:20%;margin-left: 15%;" >
+                     <img src="{{productDetails.ThumbnailPath}}" alt="{{productDetails.ProductName}}" width="100%" />
+     
+                </div>
+
+        <div style="float:right; width: 50%;margin-right:10%;margin-top: 3%;">
+
+                    <legend>Product</legend>
+                    <div class="display-label" style="float:left; width:35%;">
+                       ProductName
+                    </div>
+                    <div class="display-field" style="float:right; width:65%;" >
+                        {{productDetails.ProductName}}
+                    </div>
+
+                    <div class="display-label" style="float:left; width:35%;">
+                        Description
+                    </div>
+                    <div class="display-field" style="float:right; width:65%;" >
+                   {{productDetails.Description}}
+                </div>
+
+                    <div class="display-label" style="float:left; width:35%;">
+                        Price
+                    </div>
+                    <div class="display-field" style="float:right; width:65%;" >
+                       {{productDetails.price | currency}}
+                    </div>
+                    <br /><br /><br><br>
+   
+                    <button class="btn btn-primary" ng-click="Basket(productDetails.ProductId)" >
+                        Add to Basket
+                    </button>
+                    <button class="btn btn-primary" ng-click="Back(productDetails.BrandId)" >
+                        Back to List
+                    </button>
+                   </div>
+   
+</div>
+
+
+

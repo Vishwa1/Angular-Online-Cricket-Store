@@ -1,0 +1,79 @@
+﻿@*@model OnlineCricStore.WebUI.Models.RegisterModel*@
+@{
+    //ViewBag.Title = "Register";
+    Layout = null;
+}
+
+
+<hgroup class="title">
+   @* <h1>Register</h1>*@
+    <h2>Create a new account.</h2>
+</hgroup>
+
+
+    <form data-ng-submit="sendForm()"  novalidate>
+    <fieldset>
+        <legend>Registration Form</legend>
+         <div class="error" style="color:#0EA008">{{message}}</div>
+        <ol>
+           
+            <li id="errorMessages" class="error" data-ng-repeat="error in errors">{{error}}</li>
+            <li>
+                <label for="UserName">User name</label>
+               <br />
+                 <input  id="UserName" name="UserName" type="text" data-ng-model="Register.UserName" placeholder = "Enter Desired UserName">
+               <span class="error" data-ng-show="mainForm.userName.$error.required">*</span>
+            </li>
+            <li>
+                <label for="UserFirstName">User FirstName</label>
+                <br />
+                 <input  id="UserFirstName" name="UserFirstName" type="text" data-ng-model="Register.UserFirstName" placeholder = "Enter First Name">
+                <span class="error" data-ng-show="mainForm.UserFirstName.$error.required">*</span>
+            </li>
+            <li>
+                <label for="UserLastName">User LastName</label>
+                <br />
+                 <input  id="UserLastName" name="UserLastName" type="text" data-ng-model="Register.UserLastName" placeholder = "Enter Last Name">
+           
+               <span class="error" data-ng-show="mainForm.UserLastName.$error.required">*</span>
+            </li>
+            <li>
+                <label for="UserEmail">Email</label>
+               <br />
+                 <input  id="UserEmail" name="UserEmail" type="text" data-ng-model="Register.UserEmail" placeholder = "Enter Email" >
+                <span class="error" data-ng-show="mainForm.UserEmail.$error.required">*</span>
+            </li>
+            <li>
+                <label for="Password">Password</label>
+                <br />
+                 <input  id="Password" name="Password" type="password" data-ng-model="Register.Password" placeholder = "Enter Password" >
+               <span class="error" data-ng-show="mainForm.Password.$error.required">*</span>
+            </li>
+            <li>
+                <label for="ConfirmPassword">ConfirmPassword</label>
+               <br />
+                 <input  id="ConfirmPassword" name="ConfirmPassword" type="password" data-ng-model="Register.ConfirmPassword"  placeholder = "Confirm Password">
+               <span class="error" data-ng-show="mainForm.ConfirmPassword.$error.required">*</span>
+            </li>
+            <li>
+                <label for="UserMobile">Mobile</label>
+                <br />
+                 <input  id="UserMobile" name="UserMobile" type="text" data-ng-model="Register.UserMobile" placeholder = "Enter Mobile">
+                <span class="error" data-ng-show="mainForm.UserMobile.$error.required">*</span>
+            </li>
+            <li>
+                <label for="UserCity">City</label>
+               <br />
+                 <input  id="UserCity" name="UserCity" type="text" data-ng-model="Register.UserCity" placeholder = "Enter City">
+               <span class="error" data-ng-show="mainForm.UserCity.$error.required">*</span>
+            </li>
+            
+        </ol>
+        <button type="submit" class="btn btn-primary" data-ng-disabled="mainForm.$invalid">Register</button>
+        @*<button class="btn btn-primary" ng-click="Register(User)" >
+                       Register
+                    </button>*@
+        
+    </fieldset>
+        </form>
+

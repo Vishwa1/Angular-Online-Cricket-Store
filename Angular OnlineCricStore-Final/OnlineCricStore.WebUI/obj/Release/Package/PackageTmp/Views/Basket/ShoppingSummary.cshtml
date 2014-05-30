@@ -1,0 +1,22 @@
+﻿@model CricStore.Domain.Entities.Basket
+
+@{
+    ViewBag.Title = "ShoppingSummary";
+}
+
+<h2 style="margin-left:70%; font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif; color:darkblue;text-align: left;">Shopping Summary</h2>
+
+<div id="cart" style="margin-left:70%;">
+    <span class="caption">
+        <b style="color:purple">Your Cart:</b>
+        @Model.Lines.Sum(x => x.Quantity) item(s),
+        @Model.ComputeTotalValue().ToString("c")
+    </span>
+    <br/>
+
+   @* @Html.ActionLink("CheckOut", "Index", "Basket", new { returnUrl = Request.Url.PathAndQuery }, null)*@
+    @*<input style="margin-top:10px; margin-bottom:10px;" class="btn btn-primary" type="button" title="Details" value="Checkout" onclick="location.href='@Url.Action("Index", "Basket", new { returnUrl = Request.Url.PathAndQuery }, null)'" />*@
+    <button style="margin-top:10px; margin-bottom:10px;" class="btn btn-primary" ng-click="Checkout((location.pathname+location.search).substr(1))" >
+                      Checkout
+                    </button>
+</div>

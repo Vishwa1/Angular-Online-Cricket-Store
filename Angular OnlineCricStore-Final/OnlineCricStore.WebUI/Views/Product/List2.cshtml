@@ -1,0 +1,16 @@
+﻿@model IEnumerable<CricStore.Domain.Entities.Brand>
+
+@{
+    ViewBag.Title = Model;
+}
+
+@foreach (var p in Model)
+{
+    <div class="item">
+        <h3 class="hthree" style="padding-top: 10px; margin-top: 10px;">@p.BrandName</h3>
+        <h3 class="hthree" style="padding-top: 10px; margin-top: 10px;">@p.BrandId</h3>
+
+
+        <h2>List</h2>
+   </div>
+}

@@ -1,0 +1,822 @@
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.dll.config
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.pdb
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\CricStore.Domain.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\EntityFramework.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\Ninject.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Spatial.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.Http.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.Http.OData.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\WebGrease.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\WebMatrix.Data.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\WebMatrix.WebData.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\CricStore.Domain.pdb
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\Ninject.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\EntityFramework.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.Http.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\WebMatrix.Data.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\WebMatrix.WebData.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Web.Http.OData.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\System.Spatial.xml
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\de\System.Spatial.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\es\System.Spatial.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\fr\System.Spatial.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\it\System.Spatial.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\ja\System.Spatial.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\ko\System.Spatial.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\ru\System.Spatial.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.dll
+C:\Users\Vishwajeet\documents\visual studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.pdb
+C:\Users\Vishwajeet\Documents\Visual Studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Vishwajeet\Documents\Visual Studio 2013\Projects\Practice\OnlineCricStore\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Antlr3.Runtime.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\CricStore.Domain.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Newtonsoft.Json.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Ninject.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Spatial.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Helpers.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.OData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Mvc.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Optimization.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Razor.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebGrease.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.Data.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.WebData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\CricStore.Domain.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Ninject.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Newtonsoft.Json.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Helpers.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Mvc.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Razor.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.Data.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.WebData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.OData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Spatial.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\OnlineCricStore-master\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Antlr3.Runtime.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\CricStore.Domain.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Newtonsoft.Json.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Ninject.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Spatial.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Helpers.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.OData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Mvc.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Optimization.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Razor.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebGrease.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.Data.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.WebData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\CricStore.Domain.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Ninject.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Newtonsoft.Json.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Helpers.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Mvc.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Razor.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.Data.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.WebData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.OData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Spatial.xml
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.dll
+D:\Rajib\2014\Rajib\Development\05.2014\20.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Antlr3.Runtime.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\CricStore.Domain.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Newtonsoft.Json.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Ninject.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Spatial.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Helpers.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.OData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Mvc.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Optimization.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Razor.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebGrease.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.Data.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.WebData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\CricStore.Domain.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Ninject.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Newtonsoft.Json.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Helpers.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Mvc.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Razor.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.Data.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.WebData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.OData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Spatial.xml
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.dll
+D:\Rajib\2014\Rajib\Development\05.2014\21.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Antlr3.Runtime.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\CricStore.Domain.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Newtonsoft.Json.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Ninject.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Spatial.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Helpers.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.OData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Mvc.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Optimization.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Razor.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebGrease.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.Data.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.WebData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\CricStore.Domain.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Ninject.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Newtonsoft.Json.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Helpers.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Mvc.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Razor.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.Data.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.WebData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.OData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Spatial.xml
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.dll
+D:\Rajib\2014\Rajib\Development\05.2014\22.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Antlr3.Runtime.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\CricStore.Domain.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Newtonsoft.Json.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Ninject.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Spatial.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Helpers.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.OData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Mvc.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Optimization.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Razor.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebGrease.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.Data.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.WebData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\CricStore.Domain.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Ninject.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Newtonsoft.Json.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Helpers.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Mvc.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Razor.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.Data.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.WebData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.OData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Spatial.xml
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.dll
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\23.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Antlr3.Runtime.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\CricStore.Domain.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Newtonsoft.Json.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Ninject.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Spatial.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Helpers.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.OData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Mvc.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Optimization.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Razor.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebGrease.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.Data.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.WebData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\CricStore.Domain.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Ninject.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Newtonsoft.Json.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Helpers.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Mvc.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Razor.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.Data.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.WebData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.OData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Spatial.xml
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.dll
+D:\Rajib\2014\Rajib\Development\05.2014\24.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Antlr3.Runtime.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\CricStore.Domain.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Newtonsoft.Json.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Ninject.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Spatial.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Helpers.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.OData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Mvc.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Optimization.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Razor.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebGrease.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.Data.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.WebData.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\CricStore.Domain.pdb
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Ninject.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Newtonsoft.Json.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Helpers.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Mvc.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Razor.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.Data.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.WebData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.OData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Spatial.xml
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.dll
+D:\Rajib\2014\Rajib\Development\05.2014\26.05.2014\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.pdb
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.dll.config
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\OnlineCricStore.WebUI.pdb
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\CricStore.Domain.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Ninject.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Spatial.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Abstractions.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.OData.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Routing.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebGrease.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.Data.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.WebData.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\CricStore.Domain.pdb
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Ninject.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.Data.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\WebMatrix.WebData.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.Core.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Web.Http.OData.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.Edm.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\Microsoft.Data.OData.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\System.Spatial.xml
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\de\System.Spatial.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\es\System.Spatial.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\fr\System.Spatial.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\it\System.Spatial.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ja\System.Spatial.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ko\System.Spatial.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\ru\System.Spatial.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.dll
+C:\Users\Vishwajeet\Desktop\Semester-1\Thesis\Thesis Final\New folder\AngularJS\OnlineCricStore-master\OnlineCricStore.WebUI\obj\Debug\OnlineCricStore.WebUI.pdb

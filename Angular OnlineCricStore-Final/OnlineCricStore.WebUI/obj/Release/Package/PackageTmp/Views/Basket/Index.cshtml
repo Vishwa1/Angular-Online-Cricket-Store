@@ -1,0 +1,60 @@
+﻿
+
+@{
+   // ViewBag.Title = "Index";
+    Layout = null;
+}
+
+<h2>Your Shopping Basket</h2>
+
+<table width="90%" align="center">
+    <thead>
+        <tr>
+            <th align="center"> Quantity </th>
+            <th align="center">Item</th>
+            <th align="center">Price</th>
+            <th align="center">Sub-Total</th>
+        </tr>
+    </thead>
+    <tbody>
+      
+            <tr ng-repeat="b in Busket.Lines" >
+                <td align="left">{{b.Quantity}}</td>
+                <td align="left">{{b.Product.ProductName}}</td>
+                <td align="left">{{b.Product.price | currency}}</td>
+                <td align="left">{{b.Quantity * b.Product.price | currency}}</td>
+
+                <td>
+                   @* @using (@Html.BeginForm("RemoveFromBasket", "Basket"))
+                    {
+                        @Html.Hidden("ProductId",line.Product.ProductId) 
+                        @Html.HiddenFor(x => x.ReturnUrl)
+                        <input class="btn btn-primary" type="submit" value="Remove from Basket" />
+                    }*@
+                    <button class="btn btn-primary" ng-click="RemoveBasket(b.Product.ProductId)" >
+                        Remove from Basket
+                    </button>
+                </td>
+            </tr>
+       
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3" align="right">Total:</td>
+            <td align="right">{{TotalPrice | currency}}</td>
+        </tr>
+    </tfoot>
+</table>
+
+<p align="center" class="actionButtons">
+    <button class="btn btn-primary" ng-click="Back(ReturnUrl)" >
+                        Continue Shopping
+                    </button>
+    
+     <button class="btn btn-primary" ng-click="Checkout()" >
+                        Checkout Now
+                    </button>
+    
+</p>
+
+

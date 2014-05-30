@@ -1,0 +1,27 @@
+﻿@model IEnumerable<CricStore.Domain.Entities.Product>
+
+@{
+    ViewBag.Title = "List";
+}
+
+<h2>ProductList</h2>
+
+@foreach (var p in Model)
+{
+    <div class="item">
+   
+        @if (@p.ThumbnailPath != null)
+        {
+            <div class="image">
+                <img src="@Url.Content(String.Format(@p.ThumbnailPath))" alt="Adidas Pellara Adistar Cricket Bat" />
+            </div>
+        }
+        <div class="ProductName">
+            <h3>@p.ProductName</h3>
+            <h4>@p.price.ToString("c")</h4> 
+        </div>
+        
+        <input class ="myButton" type="button" title="Details" value="Details" onclick="location.href='@Url.Action("Details", "Product", new { Id = p.ProductId }, null)'" />
+
+    </div>
+}
